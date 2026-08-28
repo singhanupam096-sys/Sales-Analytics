@@ -1,0 +1,17 @@
+date,region,category,revenue,units
+2024-01,North,Electronics,12000,45
+2024-01,South,Clothing,8000,60
+2024-01,East,Electronics,15000,50
+2024-01,West,Furniture,9500,20
+2024-02,North,Clothing,11000,55
+2024-02,South,Electronics,13500,42
+2024-02,East,Furniture,7000,15
+2024-02,West,Electronics,16000,48
+2024-03,North,Furniture,9000,18
+2024-03,South,Clothing,10500,58
+2024-03,East,Electronics,17500,52
+2024-03,West,Clothing,8800,40
+2024-04,North,Electronics,14200,47
+2024-04,South,Furniture,8200,19
+2024-04,East,Clothing,9600,51
+2024-04,West,Electronics,15800,49

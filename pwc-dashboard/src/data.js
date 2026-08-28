@@ -1,0 +1,18 @@
+export const salesData = [
+  { date: "2024-01", region: "North", category: "Electronics", revenue: 12000, units: 45 },
+  { date: "2024-01", region: "South", category: "Clothing", revenue: 8000, units: 60 },
+  { date: "2024-01", region: "East", category: "Electronics", revenue: 15000, units: 50 },
+  { date: "2024-01", region: "West", category: "Furniture", revenue: 9500, units: 20 },
+  { date: "2024-02", region: "North", category: "Clothing", revenue: 11000, units: 55 },
+  { date: "2024-02", region: "South", category: "Electronics", revenue: 13500, units: 42 },
+  { date: "2024-02", region: "East", category: "Furniture", revenue: 7000, units: 15 },
+  { date: "2024-02", region: "West", category: "Electronics", revenue: 16000, units: 48 },
+  { date: "2024-03", region: "North", category: "Furniture", revenue: 9000, units: 18 },
+  { date: "2024-03", region: "South", category: "Clothing", revenue: 10500, units: 58 },
+  { date: "2024-03", region: "East", category: "Electronics", revenue: 17500, units: 52 },
+  { date: "2024-03", region: "West", category: "Clothing", revenue: 8800, units: 40 },
+  { date: "2024-04", region: "North", category: "Electronics", revenue: 14200, units: 47 },
+  { date: "2024-04", region: "South", category: "Furniture", revenue: 8200, units: 19 },
+  { date: "2024-04", region: "East", category: "Clothing", revenue: 9600, units: 51 },
+  { date: "2024-04", region: "West", category: "Electronics", revenue: 15800, units: 49 },
+];

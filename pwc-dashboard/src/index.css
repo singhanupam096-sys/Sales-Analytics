@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #EEF1F4;
+  background-image: repeating-linear-gradient(
+    -45deg,
+    rgba(16, 35, 59, 0.015),
+    rgba(16, 35, 59, 0.015) 1px,
+    transparent 1px,
+    transparent 14px
+  );
+}
+
+::selection {
+  background-color: #0F6B5C;
+  color: #EEF1F4;
+}
+
+:focus-visible {
+  outline: 2px solid #0F6B5C;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
